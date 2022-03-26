@@ -1,25 +1,17 @@
 ## Summary
+(Add a brief description of the merge request.)
 
-(Summarize the bug encountered concisely)
+## Changes
+(Specify all changed files or only large files that have been impacted.)
 
-## Steps to reproduce
-(How one can reproduce the issue - this is very important)
+## Testing
+(Mention whether it has been tested locally or in development environment.)
 
-## Example Project
-(If possible, please create an example project here on GitLab.com that exhibits the problematic
-behavior, and link to it here in the bug report.
-If you are using an older version of GitLab, this will also determine whether the bug has been fixed
-in a more recent version)
+## [] Tester Name
+(Name the person in charge of testing.)
 
-## What is the current bug behavior?
+## PBI link
+(Please include a link to the PBI for future reference.)
 
-(What actually happens)
-
-## What is the expected correct behavior?
-
-(What you should see instead)
-
-## Relevant logs and/or screenshots
-
-(Paste any relevant logs - please use code blocks (```) to format console output, logs, and code, as
-it's very hard to read otherwise.)
+## Relevant Merge Request
+(Add a link to the relevant merge request for future reference.)

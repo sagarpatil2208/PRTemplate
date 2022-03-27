@@ -12,6 +12,8 @@
 
 ## PBI link
 (Please include a link to the PBI for future reference.)
+- [ ] [Changelog entry](https://docs.gitlab.com/ee/development/changelog.html) 
+- [ ] [Documentation](https://docs.gitlab.com/ee/development/documentation/workflow.html) ([if required](https://docs.gitlab.com/ee/development/documentation/workflow.html#when-documentation-is-required))
 
 ## Relevant Merge Request
 (Add a link to the relevant merge request for future reference.)

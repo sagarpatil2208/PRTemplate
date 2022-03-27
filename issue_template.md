@@ -11,7 +11,7 @@
 
 ## What is the expected correct behavior?
 
-(Acceptable behaviour must be provided.)
+(Acceptable behavior must be provided.)
 
 ## Relevant logs and/or screenshots
 

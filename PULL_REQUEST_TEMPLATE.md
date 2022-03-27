@@ -7,7 +7,7 @@
 ## Testing
 (Mention whether it has been tested locally or in development environment.)
 
-## [] Tester Name
+## Tester Name
 (Name the person in charge of testing.)
 
 ## PBI link
